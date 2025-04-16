@@ -1,0 +1,46 @@
+/*font-family: "Roboto", sans-serif;
+ font-family: "Raleway", sans-serif;*/
+
+
+body{font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#fff;}
+    ul, ol{list-style-type: none;}
+    a {text-decoration: none;}
+    .page-header
+    .heder-nav
+    .logo {font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;}
+    .header-logo .logo-part {color: #2e2f42;}
+    
+     .nav-link {font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;}
+    .nav-link:hover,
+    .nav-link:focus {color: #404bbf;}
+            
+    .cotacts-link {font-style: normal;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;}
+     .cotacts-link:hover,
+     .contacts-list:focus {color: #404bbf;}
+    .title {font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;} 
+    .section1 {background-color: #2e2f42;}  
+    .button {font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;}  
