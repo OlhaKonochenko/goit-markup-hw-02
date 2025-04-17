@@ -37,13 +37,12 @@ body{font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;} 
-    .sectionone {background-color: #2e2f42;}  
+    .sectionone { background-color: #2e2f42;}  
     .button {font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
         cursor: pointer;}
         .button:hover,
@@ -76,8 +75,9 @@ body{font-family: "Roboto", sans-serif;
         .logo-part-footer {color: #f4f4fd;}
         .footer-text{color: #f4f4fd;}
         .sectionfour-backgr{background: #fff;}
-    .sectionthree-backgr {box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-        background: #fff;}
+    .sectionthree-backgr {background: #fff;}
         .sectionthree-all-backgr {background: #f4f4fd;}
      .sectionthree {text-transform: capitalize}
-.titlefour{titletext-transform: capitalize}
+.titlefour{text-transform: capitalize;}
+.sectionthree-list {background-color: #FFFFFF;}
+.sectiontwo-paragraf {font-size: 16px;}
